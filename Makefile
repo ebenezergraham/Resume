@@ -2,4 +2,4 @@ all: clean
 	pdflatex Resume.tex
 
 clean:
-	rm -f *.aux *.log *.out *.dvi
+	rm -f *.aux *.log *.out
