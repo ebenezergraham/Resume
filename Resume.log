@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xetex 2015.8.9)  9 AUG 2015 23:39
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xetex 2015.8.9)  9 AUG 2015 23:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -74,28 +74,28 @@ l.28 \familyname
 ? 
 ! Undefined control sequence.
 l.29 \title
-           {M.Sc. Graduate %, Computer Science
+           {M.Sc. Graduate}
 ? 
 ! Undefined control sequence.
-l.31 \email
+l.30 \email
            {u2isaac@gmail.com}
 ? 
 ! Undefined control sequence.
-l.32 \photo
+l.31 \photo
            [64pt]{Candle}
 ? 
 ! Undefined control sequence.
-l.33 \address
+l.32 \address
              {GDG Buea, Cameroon.}
 ? 
 ! Undefined control sequence.
-l.35 \homepage
+l.34 \homepage
               {https://github.com/Izakey}
 ? 
 
-Overfull \hbox (47.37923pt too wide) in paragraph at lines 27--36
-[]\tenrm Isaac Kamga M.Sc. Grad-u-ate  u2isaac@gmail.com [64pt]Candle GDG Buea,
- Cameroon. https://github.com/Izakey |
+Overfull \hbox (45.15701pt too wide) in paragraph at lines 27--35
+[]\tenrm Isaac Kamga M.Sc. Grad-u-ate u2isaac@gmail.com [64pt]Candle GDG Buea, 
+Cameroon. https://github.com/Izakey |
 
 \hbox(7.5+2.5)x469.75499, glue set - 1.0
 .\hbox(0.0+0.0)x20.0
@@ -106,199 +106,51 @@ Overfull \hbox (47.37923pt too wide) in paragraph at lines 27--36
 .etc.
 
 ! Undefined control sequence.
-l.37 \begin
+l.36 \begin
            {document}
 ? 
 ! Undefined control sequence.
-l.38 \maketitle
+l.37 \maketitle
                
 ? 
 ! Undefined control sequence.
-l.40 \section
+l.39 \section
              {Education}
 ? 
 ! Undefined control sequence.
-l.42 \cventry
-             {2010 -- 2011}{MSc. Cryptology and Information Security}{Univer...
+l.40 \begin
+           {figure}[htbp]
+? 
+! Undefined control sequence.
+l.42 \includegraphics
+                     [trim=1cm 2cm 3cm 4cm, clip=true, totalheight=0.5\texth...
+
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   [
+l.42 \includegraphics[
+                      trim=1cm 2cm 3cm 4cm, clip=true, totalheight=0.5\texth...
+
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   [
+l.42 \includegraphics[
+                      trim=1cm 2cm 3cm 4cm, clip=true, totalheight=0.5\texth...
 
 ? 
 ! Undefined control sequence.
-l.44 \cventry
-             {2009 -- 2010}{Maîtrise ès Mathématiques}{University of Bord...
-
-? 
-Missing character: There is no î in font cmr10!
-Missing character: There is no è in font cmr10!
-Missing character: There is no é in font cmr10!
-! Undefined control sequence.
-l.45 ...onstructions of ``good'' LDPC QECCs (\emph
-                                                  {Low-Density Parity-Check ...
-
+l.42 ...4cm, clip=true, totalheight=0.5\textheight
+                                                  ]{Candle.png}
 ? 
 ! Undefined control sequence.
-l.46 \cventry
-             {2005 -- 2008}{BSc. Mathematics and Computer Science}{Universit...
-
+l.43 \caption
+             [Candle]{Candle}
 ? 
 ! Undefined control sequence.
-l.49 \section
-             {Professional Experience}
-? 
-! Undefined control sequence.
-l.50 \cventry
-             {\llap{Oct 2012 -- Oct 2014}}{Research engineer}{PARIETAL -- IN...
-
-? 
-! Undefined control sequence.
-l.52 ...on fMRI data; software engineering\newline
-                                                  {}}
-? 
-! Undefined control sequence.
-l.53 \cventry
-             {Sep 2011 -- Oct 2012}{Freelancer and Open-Source}{Various empl...
-
-? 
-! Undefined control sequence.
-l.55 ...ion of Machine Learning algorithms\newline
-                                                  {}}
-? 
-! Undefined control sequence.
-l.57 \cventry
-             {Mar 2011 -- Aug 2011}{Cryptology and Security intern}{P1 Secur...
-
-? 
-! Undefined control sequence.
-l.59 \newline
-             {}}
-? 
-! Undefined control sequence.
-l.61 \section
-             {IT and Computing Skills}
-? 
-! Undefined control sequence.
-l.63 \cvitem
-            {\llap{Programming Languages}}{Python, ASM x86, C/C++, MATLAB, R...
-
-? 
-! Undefined control sequence.
-l.64 \cvitem
-            {Maching Learning}{LibSVM, scikit-learn, pandas}
-? 
-! Undefined control sequence.
-l.65 \cvitem
-            {Neuro-imaging}{nilearn, SPM, FSL, nipy, nipype, freesurfer, may...
-
-? 
-! Undefined control sequence.
-l.66 \cvitem
-            {Software Engineering}{OOP, TDD, EDD, version control (git, gith...
-
-? 
-! Undefined control sequence.
-l.67 \cvitem
-            {Operating Systems}{Linux, Windows (including shell scripting an...
-
-? 
-! Undefined control sequence.
-l.72 \cvitem
-            {My github profile}{\url{https://github.com/dohmatob}}
-? 
-! Undefined control sequence.
-l.72 \cvitem{My github profile}{\url
-                                    {https://github.com/dohmatob}}
-? 
-! Undefined control sequence.
-l.74 \section
-             {Scientific Publications (see complete google scholar)}
-? 
-! Undefined control sequence.
-l.75 \cvitem
-            {2014}{\begin{itemize}
-? 
-! Undefined control sequence.
-l.75 \cvitem{2014}{\begin
-                         {itemize}
-? 
-! Undefined control sequence.
-<argument> ..., D. SAMARAS, G. VAROQUAUX, ``\emph 
-                                                  {Region segmentation for s...
-
-\llap #1->\hbox to\z@ {\hss #1
-                              }
-\textindent #1->\indent \llap {#1\enspace }
-                                           \ignorespaces 
-l.78 ...2014.ece.cornell.edu/papers/STMI-P-9.pdf}}
-                                                  
-? 
-! Undefined control sequence.
-<argument> ...rcellations from rest fMRI}''. \url 
-                                                  {http://stmi2014.ece.corne...
-
-\llap #1->\hbox to\z@ {\hss #1
-                              }
-\textindent #1->\indent \llap {#1\enspace }
-                                           \ignorespaces 
-l.78 ...2014.ece.cornell.edu/papers/STMI-P-9.pdf}}
-                                                  
-? 
-! Undefined control sequence.
-<argument> ... E. DOHMATOB, J.-B. POLINE, ``\emph 
-                                                  {Which fMRI clustering giv...
-
-\llap #1->\hbox to\z@ {\hss #1
-                              }
-\textindent #1->\indent \llap {#1\enspace }
-                                           \ignorespaces 
-l.81 ...ournal/10.3389/fnins.2014.00167/abstract}}
-                                                  
-? 
-! Undefined control sequence.
-<argument> ...Frontiers in Neuroinformatics. \url 
-                                                  {http://journal.frontiersi...
-
-\llap #1->\hbox to\z@ {\hss #1
-                              }
-\textindent #1->\indent \llap {#1\enspace }
-                                           \ignorespaces 
-l.81 ...ournal/10.3389/fnins.2014.00167/abstract}}
-                                                  
-? 
-! Undefined control sequence.
-<argument> ...t, B. THIRION, G. Varoquaux ``\emph 
-                                                  {Benchmarking solvers for ...
-
-\llap #1->\hbox to\z@ {\hss #1
-                              }
-\textindent #1->\indent \llap {#1\enspace }
-                                           \ignorespaces 
-l.84 ...}. \url{http://hal.inria.fr/hal-00991743}}
-                                                  
-? 
-! Undefined control sequence.
-<argument> ...ition in Neuroimaging (PRNI), \emph 
-                                                  {IEEE}. \url {http://hal.i...
-
-\llap #1->\hbox to\z@ {\hss #1
-                              }
-\textindent #1->\indent \llap {#1\enspace }
-                                           \ignorespaces 
-l.84 ...}. \url{http://hal.inria.fr/hal-00991743}}
-                                                  
-? 
-! Undefined control sequence.
-<argument> ...oimaging (PRNI), \emph {IEEE}. \url 
-                                                  {http://hal.inria.fr/hal-0...
-
-\llap #1->\hbox to\z@ {\hss #1
-                              }
-\textindent #1->\indent \llap {#1\enspace }
-                                           \ignorespaces 
-l.84 ...}. \url{http://hal.inria.fr/hal-00991743}}
-                                                  
+l.44 \label
+           {Candle}
 ? 
 [1] )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 75 ({)
-### bottom level
 Output written on Resume.pdf (1 page).
