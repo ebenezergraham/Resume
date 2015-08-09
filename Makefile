@@ -1,5 +1,4 @@
-all: clean
+#Makefile for Resume
+Resume.pdf: Resume.tex
 	pdflatex Resume.tex
-
-clean:
-	rm -f *.aux *.log *.out
+#End the Makefile
