@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.8.29)  17 SEP 2015 16:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.8.29)  17 SEP 2015 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1212,23 +1212,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
  []
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 33.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 32.
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 64.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 59.
 (/usr/share/texlive/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1240,23 +1242,23 @@ Package microtype Info: Loading generic settings for font family
 
 {/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./Candle.jp
 g>] [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
 
 (./Resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 133.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 128.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
 Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: AB952AB6C37887053D5DFCA73E98DF88;1644.
  ) 
 Here is how much of TeX's memory you used:
- 26687 strings out of 493312
- 489200 string characters out of 6140261
- 559076 words of memory out of 5000000
- 29581 multiletter control sequences out of 15000+600000
- 42517 words of font info for 144 fonts, out of 8000000 for 9000
+ 26695 strings out of 493312
+ 489289 string characters out of 6140261
+ 559085 words of memory out of 5000000
+ 29584 multiletter control sequences out of 15000+600000
+ 44816 words of font info for 148 fonts, out of 8000000 for 9000
  953 hyphenation exceptions out of 8191
- 69i,12n,58p,10405b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,14n,58p,10405b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
@@ -1265,10 +1267,10 @@ public/lm/lmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym
 b></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Resume.pdf (3 pages, 138494 bytes).
+Output written on Resume.pdf (3 pages, 138388 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  103 compressed objects within 2 object streams
  14 named destinations out of 1000 (max. 500000)
- 36962 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 37474 words of extra memory for PDF output out of 42996 (max. 10000000)
 
