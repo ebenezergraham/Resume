@@ -1,33 +1,27 @@
-# Resume
-
-A Rejuvenated Version Of My Resume
-
 .. -*- restructuredtext -*-
 
-Resume is a repository containing my resume compiled in latex using a great modern theme
+Resume is a repository containing a Rejuvenated Version Of My Resume ;-) using a great modern theme
 
 Credits
 =======
 
-Latex is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia. You can find out more about it here: http://www.latex-project.org/
-
-If you are looking for latex resume templates, I would recommend looking at this nice list an anonymous person put together: http://linuxandfriends.com/2009/12/28/latex-resume-templates/
+LaTeX is a fantastic typesetting program (based on the TeX markup language developed by the venerable Donald Knuth) that lots of people in the exact sciences use these days, especially mathematics, computer science and physics persons in academia. You can find out more about it here: http://www.latex-project.org/
 
 The moderncv theme for my resume is contributed by Xavier Danaux and can be downloaded here: http://tug.ctan.org/tex-archive/macros/latex/contrib/moderncv/
 
 Prerequisites
 =============
 
-You will need to have latex installed on your system. If you are using OSX, the easiest way to get up and running is to download MacTex: http://tug.org/mactex/
+You will need to have latex installed on your system. If you are using Linux, the easiest way to get up and running is to use the ``dnf install tex-live``, ``yum install texlive`` or ``apt-get install texlive`` depending on your flevor.
 
 Installation
 ============
 
-Install Latex and download the moderncv theme. Place the moderncv theme somewhere Latex can find it. You can just place the folder in the same place as your .tex file as I have::
+Download the moderncv theme from http://tug.ctan.org/tex-archive/macros/latex/contrib/moderncv/. Place the moderncv theme somewhere LaTeX can find it. You can just place the folder in the same place as your .tex file as I have::
 
-    /my-resume
-        my-resume.tex
-        my-resume.pdf
+    /Resume
+        Resume.tex
+        Resume.pdf
         /moderncv
 
 Compiling the Resume
@@ -40,7 +34,7 @@ Simply use the ``pdflatex`` command in your terminal::
 Notes
 =====
 
-You are free to take my .tex file and modify it to create your own resume. However, you're prohibited to use my Resume for anything else without my permission, though! 
+You are free to fork this Resume repository and modify it to create your own resume. Just make sure you star the repository before forking. However, you're prohibited to use my Resume for anything else without my permission! 
 
-Good luck!
+At Your Service!
 
