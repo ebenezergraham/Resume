@@ -2,6 +2,8 @@
 
 Resume is a repository containing a Rejuvenated Version Of My Resume ;-) using a great modern theme
 
+Click on the Resume.pdf file to view My Resume here and now.
+
 Credits
 =======
 
