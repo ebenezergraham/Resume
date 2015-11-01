@@ -39,4 +39,5 @@ Notes
 You are free to fork this Resume repository and modify it to create your own resume. Just make sure you star the repository before forking ;-). However, you're prohibited to use my Resume for anything else without my permission! 
 
 At Your Service!
+
 Isaac Kamga.
