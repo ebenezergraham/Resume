@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.13)  13 MAY 2017 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.13)  6 SEP 2017 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1349,44 +1349,56 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 32.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 32.
-LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10> not available
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/it' tried instead on input line 32.
-
-Package hyperref Warning: Suppressing empty link on input line 43.
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \hskip 
-l.66 ...rive Apps, \LaTeX \hspace*{2}Typesetting }
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 67.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 35.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 35.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [1
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 39.
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 39.
+
+! Too many }'s.
+l.52 ... to draw primitive shapes} with BRL-CAD}}}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Caric
 ature.jpg>]
-LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 73.
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   ,
+l.67 ...es in GDG Buea and GDG Limbe communities}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<argument> ...ramming in C, C++, Java, Python, C##
+                                                  , PHP \& JavaScript in ove...
+l.67 ...es in GDG Buea and GDG Limbe communities}}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    !
-l.89 ...of 3 apps during a week-long Hackathon.}}}
+l.78 ...of 3 apps during a week-long Hackathon.}}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1395,7 +1407,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    !
-l.89 ...of 3 apps during a week-long Hackathon.}}}
+l.78 ...of 3 apps during a week-long Hackathon.}}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1404,7 +1416,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    !
-l.89 ...of 3 apps during a week-long Hackathon.}}}
+l.78 ...of 3 apps during a week-long Hackathon.}}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1413,7 +1425,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    !
-l.91 ...Grouped 9 GDGs into 3 Devfest clusters.}}}
+l.80 ...Grouped 9 GDGs into 3 Devfest clusters.}}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1422,7 +1434,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    !
-l.91 ...Grouped 9 GDGs into 3 Devfest clusters.}}}
+l.80 ...Grouped 9 GDGs into 3 Devfest clusters.}}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1431,42 +1443,77 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    !
-l.91 ...Grouped 9 GDGs into 3 Devfest clusters.}}}
+l.80 ...Grouped 9 GDGs into 3 Devfest clusters.}}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
-[2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
- (./Resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 119.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   M
+l.90 ...projects/djimeli.html}{\textit{Importer}}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   M
+l.90 ...projects/djimeli.html}{\textit{Importer}}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   M
+l.90 ...projects/djimeli.html}{\textit{Importer}}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 90.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsppl.fd
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/it' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 90.
+ [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
+
+(./Resume.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 101.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
 Package rerunfilecheck Info: File `Resume.out' has not changed.
-(rerunfilecheck)             Checksum: 633EFFE696EC835797C06D37CAB20466;943.
+(rerunfilecheck)             Checksum: 95C0C66E605A528EBA5EB3CB54358F6C;942.
  ) 
 Here is how much of TeX's memory you used:
- 28591 strings out of 493014
- 525602 string characters out of 6133351
- 584548 words of memory out of 5000000
- 31643 multiletter control sequences out of 15000+600000
- 49230 words of font info for 134 fonts, out of 8000000 for 9000
+ 28603 strings out of 493014
+ 525909 string characters out of 6133351
+ 582602 words of memory out of 5000000
+ 31659 multiletter control sequences out of 15000+600000
+ 47605 words of font info for 128 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,15n,58p,10380b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2016/texmf-dist/f
-onts/type1/public/marvosym/marvosym.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/
-palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatin
-o/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri
-8a.pfb>
-Output written on Resume.pdf (3 pages, 304312 bytes).
+ 69i,12n,58p,10380b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/lm/lmtk10.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/marvosym/marvosym.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/urw/palatino/uplbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/p
+alatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino
+/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8
+a.pfb>
+Output written on Resume.pdf (2 pages, 313229 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
- 11 named destinations out of 1000 (max. 500000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 105 compressed objects within 2 object streams
+ 10 named destinations out of 1000 (max. 500000)
  40522 words of extra memory for PDF output out of 42996 (max. 10000000)
 
